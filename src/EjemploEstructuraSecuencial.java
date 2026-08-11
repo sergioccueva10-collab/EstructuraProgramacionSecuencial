@@ -26,8 +26,8 @@ public class EjemploEstructuraSecuencial {
 }
 
 //COMENTARIO 2: No olvidar que después de declarar (línea 12), siempre deberá hacerse una asignación (línea 15 y 18).
-/*COMENTARIO 3: Siempre ingresar un 'SOUT' (línea 14 y 17) inmediatamente, porque el usuario será quien vea o realiza
+/*COMENTARIO 3: Siempre ingresar un 'SOUT' (línea 14 y 17) inmediatamente, porque el usuario será quien vea o realice
 alguna acción, es por eso que hay que mostrarle un mensaje indicando qué hacer*/
-//COMENTARIO 4: Siempre realizar las operaciones (líneas 20 y 21), se podría decir que también son asignacioens con propósito.
-/*COMENTARIO 5: Y finalmente, se deberá añadir un mensaje mediante 'SOUT' para indicar al usuario el resultado, como se
-y eso se puede evidenciar en las (líneas 23 y 24)*/
+//COMENTARIO 4: Siempre realizar las operaciones (líneas 20 y 21), se podría decir que también son asignaciones con propósito.
+/*COMENTARIO 5: Y finalmente, se deberá añadir un mensaje mediante 'SOUT' para indicar al usuario el resultado, como
+se puede evidenciar en las (líneas 23 y 24)*/
